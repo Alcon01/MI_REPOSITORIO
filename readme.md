@@ -6,4 +6,4 @@
 5. git log . Para ver los commits
 6. git commit. Guardar
 7. git checkout -- . Restaura commit
-8. git brach 
+8. git branch  crea ramas git branch
